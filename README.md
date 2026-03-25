@@ -4,7 +4,7 @@ Shared React UI components for [Cagent](https://github.com/kashyaprpuranik/cagen
 
 ## Components
 
-Badge, BandwidthWidget, BlockedDomainsWidget, BlockedTimeseriesChart, Button, Card, DiagnoseModal, Input, Modal, Select, Table, Toast.
+Badge, BandwidthWidget, BlockedDomainsWidget, BlockedTimeseriesChart, Button, Card, DiagnoseModal, Input, Modal, Select, Table, ToastContainer, useToast.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Badge, BandwidthWidget, BlockedDomainsWidget, BlockedTimeseriesChart, Button, Ca
 
 ## Peer Dependencies
 
-- React 18+
+- React 18+ (react, react-dom)
 - lucide-react
 
 ## Usage
